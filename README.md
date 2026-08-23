@@ -102,7 +102,19 @@ struct engineer {
 
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 Projects
+
+### 🏢 Business Management System
+
+A C++ business management system built using Object-Oriented Programming principles to model real-world business operations and organise data efficiently.
+
+**Stack:** `C++` · `OOP` · `Data Management` · `Software Engineering`
+
+### 🌸 Floral Shop
+
+A responsive front-end website created to practise modern web development and responsive UI design.
+
+**Stack:** `HTML` · `CSS` 
 
 ### 🧠 StepOra — AI Physiotherapy Platform
 
@@ -111,12 +123,6 @@ An AI-powered physiotherapy platform designed to support rehabilitation through 
 **Stack:** `AI` · `Machine Learning` · `Python` · `Web Development`
 
 **Achievement:** 🏆 Best Team — Creativa Menoufia Hub Startup Builder Bootcamp
-
-### 🌸 Floral Shop
-
-A responsive front-end website created to practise modern web development and responsive UI design.
-
-**Stack:** `HTML` · `CSS` · `JavaScript`
 
 ---
 
