@@ -1,3 +1,52 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:00D9FF&height=220&section=header&text=Malak%20Ayman&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Front%20End%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
+
+### ` $ whoami | grep malak_ayman `
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Front+End+Developer;Machine+Learning+%7C+Data+Science;Building+AI-powered+applications;Turning+ideas+into+real-world+projects" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`Python` · `Machine Learning` · `Data Science` · `React` · `JavaScript` · `HTML` · `CSS`
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Malakayman07">
+<img src="https://img.shields.io/badge/GitHub-Malakayman07-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Malak%20Ayman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://malakayman07.github.io/Floral-shop/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Malakayman07&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+
+</div>
+
+<br>
+
+---
+
+## 💻 `cat /proc/malak`
 # 👩🏻‍💻 `cat /proc/malak`
 
 ```c
