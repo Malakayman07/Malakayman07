@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FACC15,50:EAB308,100:CA8A04&height=220&section=header&text=Malak%20Ayman&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Front%20End%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:00D9FF&height=220&section=header&text=Malak%20Ayman&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Front%20End%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ### ` $ whoami | grep malak_ayman `
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FACC15&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Front+End+Developer;Machine+Learning+%7C+Data+Science;Building+AI-powered+applications;Turning+ideas+into+real-world+projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Front+End+Developer;Machine+Learning+%7C+Data+Science;Building+AI-powered+applications;Turning+ideas+into+real-world+projects" />
 
 </div>
 
@@ -29,22 +29,23 @@
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Malak%20Ayman-EAB308?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Malak%20Ayman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://malakayman07.github.io/Protofolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-CA8A04?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Malakayman07&style=for-the-badge&color=EAB308&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Malakayman07&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br>
 
 ---
+
 
 # 👩🏻‍💻 `cat /proc/malak`
 
@@ -89,10 +90,10 @@ struct engineer {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 ### Data & Machine Learning
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Tools
 
