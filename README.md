@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:00D9FF&height=220&section=header&text=Malak%20Ayman&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Front%20End%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FACC15,50:EAB308,100:CA8A04&height=220&section=header&text=Malak%20Ayman&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Front%20End%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ### ` $ whoami | grep malak_ayman `
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Front+End+Developer;Machine+Learning+%7C+Data+Science;Building+AI-powered+applications;Turning+ideas+into+real-world+projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FACC15&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Front+End+Developer;Machine+Learning+%7C+Data+Science;Building+AI-powered+applications;Turning+ideas+into+real-world+projects" />
 
 </div>
 
@@ -29,16 +29,16 @@
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Malak%20Ayman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Malak%20Ayman-EAB308?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://malakayman07.github.io/Protofolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-CA8A04?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Malakayman07&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Malakayman07&style=for-the-badge&color=EAB308&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -46,7 +46,6 @@
 
 ---
 
-## 💻 `cat /proc/malak`
 # 👩🏻‍💻 `cat /proc/malak`
 
 ```c
@@ -78,7 +77,7 @@ struct engineer {
 
 ## 🧠 Core Technical Domains
 
-**Artificial Intelligence** · **Machine Learning** · **Data Science** · **Data Analysis** · **Web Development**
+**Artificial Intelligence** · **Machine Learning** · **Data Science** · **Web Development**
 
 ### Languages & Technologies
 
@@ -125,7 +124,6 @@ A responsive front-end website created to practise modern web development and re
 I’m currently focusing on building a strong foundation in:
 
 * Machine Learning
-* Data Analysis
 * Data Preprocessing
 * Regression & Classification
 * Model Evaluation
@@ -162,7 +160,7 @@ Menoufia University — Faculty of Artificial Intelligence
 ## 💼 Experience & Training
 
 * **CIB Summer Internship Program 2026** — GenAI
-* **Digital Egypt Pioneers Initiative (DEPI)** — Junior Data Analyst Track
+* **Digital Egypt Pioneers Initiative (DEPI)** — IBM Data Science Track
 * **GCI World 202 — Matsuo Iwasawa Lab, University of Tokyo**
 * **Creativa Innovation Hub** — Web Development
 * **Kode With Klossy**
