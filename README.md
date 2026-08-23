@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Malak%20Ayman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://malakayman07.github.io/Floral-shop/">
+<a href="https://malakayman07.github.io/Protofolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
